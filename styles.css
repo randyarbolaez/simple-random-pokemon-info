@@ -1,0 +1,29 @@
+body {
+  font-family: 'Dokdo', cursive;
+  background: #bbe5ed;
+}
+
+.wrapper {
+  display: flex;
+  align-items: baseline;
+}
+
+.wrapper #title {
+  margin-left: 10vw;
+  color: #7a7d7d;
+}
+
+.sub-wrapper {
+  margin-top: 2vw;
+  width: 50%;
+  height: 50%;
+  background: white;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+img {
+  width: 350px;
+  height: 250px;
+}
